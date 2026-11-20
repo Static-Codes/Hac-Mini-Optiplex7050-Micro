@@ -7,7 +7,7 @@
 
 ## Changes 
 
-- HideAuxiliary - `<true/>` -> `<false/>
+- HideAuxiliary - `<true/>` -> `<false/>`
     - Explanation: Allows autillary entries from the picker menu.
     - Docs: https://dortania.github.io/docs/latest/Configuration.html#:~:text=HideAuxiliary,-Type
 
